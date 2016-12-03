@@ -1,0 +1,7 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\bin\Debug\Storage.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\bin\Debug\Storage.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\bin\Debug\Task1.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\bin\Debug\Task1.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\obj\Debug\Storage.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\obj\Debug\Storage.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache

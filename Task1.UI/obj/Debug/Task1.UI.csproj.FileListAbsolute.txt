@@ -1,0 +1,12 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Task1.UI.exe.config
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Task1.UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Task1.UI.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Task1.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Task1.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\obj\Debug\Task1.UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\obj\Debug\Task1.UI.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Service.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Service.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\obj\Debug\Task1.UI.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Storage.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.11\Task1.UI\bin\Debug\Storage.pdb
